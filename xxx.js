@@ -18,3 +18,4 @@ cat ~/.ssh/id_rsa.pub
 ## 常用命令
 git status: 查看哪些文件修改了
 git add 文件名 | .: 保存到本地
+git commit -m '说明': 提交代码
