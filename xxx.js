@@ -19,3 +19,4 @@ cat ~/.ssh/id_rsa.pub
 git status: 查看哪些文件修改了
 git add 文件名 | .: 保存到本地
 git commit -m '说明': 提交代码
+git push origin 远程分支名: 往远程分支提交代码
