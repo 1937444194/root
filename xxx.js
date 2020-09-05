@@ -30,3 +30,7 @@ git stash apply stash@{1} 回到某一个存储上 从0开始
 git stash clear
 git log: 查看日志
 git diff <file>: 查看当前文件修改内容
+git checkout -b 你的分支名 origin/master: 创建本地分支
+git branch -v: 查看本地分支
+git branch -a: 查看远程分支
+
