@@ -34,3 +34,7 @@ git checkout -b 你的分支名 origin/master: 创建本地分支
 git branch -v: 查看本地分支
 git branch -a: 查看远程分支
 
+
+console.log(1111)
+console.log(2222)
+
