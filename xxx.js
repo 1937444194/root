@@ -26,4 +26,7 @@ git branch -v: 查看本地分支
 git branch -a: 查看远程分支
 git stash: 暂存
 git stash list: 查看缓存列表
+git stash apply stash@{1} 回到某一个存储上 从0开始
+git stash clear
 git log: 查看日志
+git diff <file>: 查看当前文件修改内容
